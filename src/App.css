@@ -1,0 +1,31 @@
+.list {
+  text-align: left;
+  max-width: 750px;
+  margin: auto;
+}
+
+.navbar{
+  background-color: #605678;
+}
+.submit-form {
+  max-width: 300px;
+  margin: auto;
+}
+
+.btn-custom {
+  color: white; /* Text color */
+  background-color: #3B1E54; /* Background color */
+}
+
+.btn-custom:hover {
+  background-color: #0056b3; /* Darker background on hover */
+  
+}
+
+.edit-form {
+  max-width: 300px;
+  margin: auto;
+}
+body{
+  background-color: rgba(8, 41, 95, 0.942);
+}

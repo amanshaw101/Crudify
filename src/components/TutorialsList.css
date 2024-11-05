@@ -1,0 +1,43 @@
+.tutorials-list {
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  padding: 20px;
+}
+
+.edit-date {
+  font-size: 0.8rem; /* Smaller font size */
+  color: #6c757d; /* A lighter color for the date */
+  position: absolute; /* Positioning */
+  top: 10px; /* Adjust as needed */
+  right: 10px; /* Adjust as needed */
+}
+.card {
+  position: relative; /* Needed for absolute positioning of edit date */
+  transition: transform 0.2s;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+.card-deck {
+  display: flex;
+  flex-direction: column; /* Stack items vertically */
+}
+
+.btn-primary {
+  background-color: #5b738c;
+  border: none;
+}
+
+.btn-danger {
+  background-color: #dc3545;
+  border: none;
+}
+
+.btn-primary:hover, .btn-danger:hover {
+  opacity: 0.8;
+}
+
+.badge {
+  font-size: 0.9rem;
+}
