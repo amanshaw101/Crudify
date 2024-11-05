@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Crudify/static/css/main.62c30a54.css",
+    "main.js": "/Crudify/static/js/main.0811d5a4.js",
+    "index.html": "/Crudify/index.html",
+    "main.62c30a54.css.map": "/Crudify/static/css/main.62c30a54.css.map",
+    "main.0811d5a4.js.map": "/Crudify/static/js/main.0811d5a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62c30a54.css",
+    "static/js/main.0811d5a4.js"
+  ]
+}
