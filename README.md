@@ -1,7 +1,5 @@
 # Crudify: A Crud Application
 
-![Project Screenshot](search bar working.png)
-
 ## 📌 About the Project
 The CRUDIFY application is a full-stack CRUD (Create, Retrieve, Update, Delete) system designed to manage tutorials. Its robust architecture combines a backend and front end, providing a seamless experience for handling tutorial-related data.
 
