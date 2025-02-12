@@ -8,7 +8,7 @@ The CRUDIFY application is a full-stack CRUD (Create, Retrieve, Update, Delete) 
 
 ## 🚀 Features
 - The CRUDIFY application is a full-stack CRUD (Create, Retrieve, Update, Delete) system designed to manage tutorials
-- demonstrates the effectiveness of integrating modern web technologies to develop a full-stack application 
+- Demonstrates the effectiveness of integrating modern web technologies to develop a full-stack application 
 - One of the key features of CRUDIFY is its search functionality, which allows users to locate specific tutorials by their title, enhancing usability for larger datasets
 
 
